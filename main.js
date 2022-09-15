@@ -22,4 +22,5 @@ function checkForAnswer() {
   } prompt('Sorry, you failed to guess the number in three attempts. The number was ' + number)
 }
 
+
 checkForAnswer()
